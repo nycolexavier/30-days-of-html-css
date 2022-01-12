@@ -37,12 +37,16 @@ a:hover {
     -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
 }
 
-a:first-child {
+/* a:first-child {
     filter: hue-rotate(270deg);
 }
 
 a:nth-child(2) {
     filter: hue-rotate(110deg);
+} */
+
+a:nth-child(2):hover {
+    background: green;
 }
 
 a span {
