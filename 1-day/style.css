@@ -23,7 +23,7 @@ a {
     margin: 40px 0;
     color: #03e9f4;  
     text-decoration: none;
-    text-transform: uppercase;
+    text-transform: uppercase; 
     transition: 0.5s;
     letter-spacing: 4px;
     overflow: hidden;
