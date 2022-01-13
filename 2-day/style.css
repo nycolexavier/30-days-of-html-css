@@ -1,3 +1,5 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800&display=swap'); */
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800&display=swap');
 
 
@@ -16,9 +18,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Montserrat' sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
-    background: #ecf0f3;
+    background-color: #ecf0f3;
     color: #a0a5a8;
 }
 
@@ -91,7 +93,7 @@ body {
     box-shadow: inset 4px 4px 4px #d1d9e6, inset -4px -4px 4px #f9f9f9;
 }
 
-.form_span {
+.form__span {
     margin-top: 30px;
     margin-bottom: 12px;
 }
@@ -111,7 +113,7 @@ body {
     font-weight: 700;
     font-size: 14px;
     letter-spacing: 1.15px;
-    background-color: #4d70e2;
+    background-color: #4b70e2;
     color: #f9f9f9;
     box-shadow: 8px 8px 16px #d1d9e6, -8px -8px 16px #f9f9f9;
     border: none;
@@ -129,6 +131,11 @@ body {
     margin-top: 25px;
     border-bottom: 1px solid #a0a5a8;
     line-height: 2;
+}
+
+.b-container {
+    left: calc(100% - 600px);
+    z-index: 0;
 }
 
 .switch {
@@ -236,5 +243,5 @@ body {
 
 .is-z200 {
     z-index: 200;
-    transform: 1.25;
+    transition: 1.25;
 }
