@@ -8,3 +8,7 @@ Dia 1 // Glowing Neon Buttons
 Dia 2 // Login  
 
 ![gif](https://user-images.githubusercontent.com/74930052/149370056-be551083-84e3-4c59-ae54-eefa929c18b1.gif)
+
+Dia 3 // Dashboard
+
+![dashboard](https://user-images.githubusercontent.com/74930052/149579393-8cf9256f-ba0d-45bf-9093-21686d4c7571.gif)
