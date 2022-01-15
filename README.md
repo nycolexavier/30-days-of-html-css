@@ -22,7 +22,7 @@
 
 ![05-social-media-gif](https://user-images.githubusercontent.com/74930052/149625668-6e89255a-01f3-434d-a6b8-7d70b0f8ea93.gif)
 
-## 🎈 Dia 6 // FAQ
+## 🎈 Dia 7 // FAQ
 
 ![07-FAQ-gif](https://user-images.githubusercontent.com/74930052/149626447-61de8073-1d4a-47a1-911e-0e1883114dd4.gif)
 
