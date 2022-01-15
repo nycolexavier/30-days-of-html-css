@@ -12,3 +12,12 @@ Dia 2 // Login
 Dia 3 // Dashboard
 
 ![dashboard](https://user-images.githubusercontent.com/74930052/149579393-8cf9256f-ba0d-45bf-9093-21686d4c7571.gif)
+
+Dia 4 // Side Navigation
+
+![4-side-navigation-gif](https://user-images.githubusercontent.com/74930052/149625302-75cc7f93-87b5-40e5-8eba-976efb301b18.gif)
+
+Dia 12 // Princing price
+
+![12-princing-price-gif](https://user-images.githubusercontent.com/74930052/149624905-02ed0568-b858-43a0-a6f9-79abc22e9abe.gif)
+
