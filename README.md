@@ -17,6 +17,10 @@ Dia 4 // Side Navigation
 
 ![4-side-navigation-gif](https://user-images.githubusercontent.com/74930052/149625302-75cc7f93-87b5-40e5-8eba-976efb301b18.gif)
 
+Dia 5 // Social Media
+
+![05-social-media-gif](https://user-images.githubusercontent.com/74930052/149625668-6e89255a-01f3-434d-a6b8-7d70b0f8ea93.gif)
+
 Dia 12 // Princing price
 
 ![12-princing-price-gif](https://user-images.githubusercontent.com/74930052/149624905-02ed0568-b858-43a0-a6f9-79abc22e9abe.gif)
