@@ -26,7 +26,7 @@
 
 ![07-FAQ-gif](https://user-images.githubusercontent.com/74930052/149626447-61de8073-1d4a-47a1-911e-0e1883114dd4.gif)
 
-## 🎈 Dia 12 // Princing price
+<!-- ## 🎈 Dia 12 // Princing price
 
 ![12-princing-price-gif](https://user-images.githubusercontent.com/74930052/149624905-02ed0568-b858-43a0-a6f9-79abc22e9abe.gif)
-
+ -->
