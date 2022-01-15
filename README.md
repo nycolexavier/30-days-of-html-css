@@ -6,15 +6,9 @@
 
 ![image](https://user-images.githubusercontent.com/74930052/149359758-700dcf23-8fa3-4027-b28b-52037c0ccec1.png)
 
-### Status: Concluído ✅
-[🧐 Confira o resultado aqui 🧐](https://01-day-button-o4pl366ow-nycolexavier.vercel.app/)
-
 ## 🎈 Dia 2 // Login  
 
 ![gif](https://user-images.githubusercontent.com/74930052/149370056-be551083-84e3-4c59-ae54-eefa929c18b1.gif)
-
-### Status: Concluído ✅
-[🧐 Confira o resultado aqui 🧐](https://30-days-of-html-css.vercel.app/)
 
 ## 🎈 Dia 3 // Dashboard
 
